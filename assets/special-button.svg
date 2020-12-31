@@ -3,8 +3,16 @@
 <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 132 32" style="enable-background:new 0 0 132 32;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#24A737;stroke-width:2.6667;}
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:2.6667;}
 </style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.5485" y1="17.9998" x2="105.981" y2="17.9998" gradientTransform="matrix(1 0 0 -1 0 34)">
+	<stop  offset="0" style="stop-color:#EC6192"/>
+	<stop  offset="0.2135" style="stop-color:#EC4C34"/>
+	<stop  offset="0.4115" style="stop-color:#FFBD2B"/>
+	<stop  offset="0.6302" style="stop-color:#EBDE56"/>
+	<stop  offset="0.8333" style="stop-color:#57C754"/>
+	<stop  offset="1" style="stop-color:#53A1EB"/>
+</linearGradient>
 <path class="st0" d="M117.6,1.3H14.4c-3.2,0-5.8,2.6-5.8,5.8v17.8c0,3.2,2.6,5.8,5.8,5.8h103.1c3.2,0,5.8-2.6,5.8-5.8V7.1
 	C123.3,3.9,120.7,1.3,117.6,1.3z"/>
 </svg>
