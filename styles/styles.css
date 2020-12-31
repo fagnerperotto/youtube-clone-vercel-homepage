@@ -6,7 +6,7 @@
 }
 
 :root {
-  --black: #000;
+  --black: #25ddf5;
   --gray: #888;
   --white: #fff;
 }
@@ -246,7 +246,7 @@ main .buttons > button:hover {
 
 main h2 {
   margin: 64px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   text-align: center;
   letter-spacing: -0.9px;
